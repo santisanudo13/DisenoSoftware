@@ -1,0 +1,13 @@
+———————————————————————————————————————————————————————––––––––––——–––––––––––––––––––––––––––—–————––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+28 de Septiembre
+———————————————————————————————————————————————————————––––––––––——–––––––––––––––––––––––––––—–————––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+	1- Doble relación, esposo <-> esposa
+	2- Métodos destructores: En C++ Dispose(), JAVA tiene recolección automática de basura psique no hay problema.
+	3- El rombo negro es una composicion de cosas, ejemplo Liga Equipo
+	4- El rombo blanco no esta muy claro,  NO USAR.
+	5- Interfaces, agual que una clase con un circulo cerrado al lado del nombre.
+	6- El override en clases hijas se pone el método tanto en el padre como en el hijo.
+	7- Clase abstracta, se utiliza poniendo el nombre en Cursiva de la clase, aunque de forma no oficial ponemos encima de la clase <abstract>.
+	8- Dependencia, es una flecha con la linea discontinua. (Aparece en algún import de la otra clase debido a que en algún método se hace uso de un objeto 
+	   de esa clase) pero dicho objeto nunca se pide como parámetro ni se retorna en ningún método o es usado como atributo.
+	9- Diferencia entre interfaz e implementación, ejemplo interfaz ISet y esta se puede implementar como Arbol Binomio de Búsqueda o Taba Hash entre otras.
