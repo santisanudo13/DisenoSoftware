@@ -19,7 +19,7 @@ namespace Practica1
 
         public string hacerSobaos()
         {
-			return "Haciendo sobaos";
+			return "Haciendo Sobaos";
 		}
     }
 }

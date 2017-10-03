@@ -1,0 +1,17 @@
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\obj\Release\Practica1Test.csprojResolveAssemblyReference.cache
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\obj\Release\Practica1Test.csproj.CoreCompileInputs.cache
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Practica1Test.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Practica1Test.pdb
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Practica1.exe
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\obj\Release\Practica1Test.dll
+F:\UNIVERSIDAD\DisenoSoftware\Practica1_PatronMixin\Practica1\Practica1Test\obj\Release\Practica1Test.pdb

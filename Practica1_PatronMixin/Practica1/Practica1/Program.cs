@@ -11,6 +11,8 @@ namespace Practica1
             salidaConsolaDatos(pasLeb);
             pasLeb.Contexto = TipoContexto.LIEBANA;
 			salidaConsolaDatos(pasLeb);
+
+            Console.ReadLine();
 		}
 
         public static void salidaConsolaDatos(PasiegoLebaniego pasLeb)
