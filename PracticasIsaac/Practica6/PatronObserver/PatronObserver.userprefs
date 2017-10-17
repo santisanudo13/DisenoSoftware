@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4CA65EC9-5094-418D-B226-3DEDEA8412A7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PatronObserver.Tests/MadreTest.cs">
+    <Files>
+      <File FileName="PatronObserver/Madre.cs" Line="14" Column="30" />
+      <File FileName="PatronObserver/Padre.cs" Line="24" Column="34" />
+      <File FileName="PatronObserver/ObservadorEsposa.cs" Line="21" Column="5" />
+      <File FileName="PatronObserver/ObservadorEsposo.cs" Line="31" Column="2" />
+      <File FileName="PatronObserver/Program.cs" Line="35" Column="51" />
+      <File FileName="PatronObserver.Tests/MadreTest.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PatronObserver PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

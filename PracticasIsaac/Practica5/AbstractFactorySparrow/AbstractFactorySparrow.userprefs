@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7E8B5E65-A1E2-42B1-9588-C54656818565}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactorySparrowPrototype/Estrategias/Visualizacion.cs">
+    <Files>
+      <File FileName="AbstractFactorySparrowPrototype/Factorias/FactoriaConcretaVisualizacionAbierta.cs" Line="11" Column="33" />
+      <File FileName="AbstractFactorySparrowPrototype/Estrategias/Visualizacion.cs" Line="22" Column="1" />
+      <File FileName="AbstractFactorySparrowPrototype/Estrategias/VisualizacionCastellano.cs" Line="23" Column="25" />
+      <File FileName="AbstractFactorySparrowInjection/Program.cs" Line="94" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AbstractFactorySparrow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AbstractFactorySparrowInjection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

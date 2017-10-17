@@ -1,0 +1,8 @@
+/Users/igr95/Documents/VisualStudioProjects/PatronObserver/PatronObserver/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/igr95/Documents/VisualStudioProjects/PatronObserver/PatronObserver/bin/Debug/PatronObserver.exe.config
+/Users/igr95/Documents/VisualStudioProjects/PatronObserver/PatronObserver/bin/Debug/PatronObserver.exe.mdb
+/Users/igr95/Documents/VisualStudioProjects/PatronObserver/PatronObserver/bin/Debug/PatronObserver.pdb
+/Users/igr95/Documents/VisualStudioProjects/PatronObserver/PatronObserver/bin/Debug/PatronObserver.exe
+/Users/igr95/Documents/VisualStudioProjects/PatronObserver/PatronObserver/obj/Debug/PatronObserver.exe
+/Users/igr95/Documents/VisualStudioProjects/PatronObserver/PatronObserver/obj/Debug/PatronObserver.exe.mdb
+/Users/igr95/Documents/VisualStudioProjects/PatronObserver/PatronObserver/obj/Debug/PatronObserver.pdb
