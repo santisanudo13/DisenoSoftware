@@ -17,8 +17,6 @@ namespace CompositeSparrowEnlaces
 
         private const int numeroArchivos = 1;
 
-        //Elementos contenidos en el archivo comprimido
-        ISet<ElementoSistemaFicheros> coleccionElementos = new HashSet<ElementoSistemaFicheros>();
 
         /// <summary>
         /// Constructor de la clase ArchivoComprimido
@@ -35,7 +33,7 @@ namespace CompositeSparrowEnlaces
             double tamanyo = 0;
 
             //se anyade el tamanyo de los ficheros contenidos
-            foreach (ElementoSistemaFicheros e in coleccionElementos)
+            foreach (ElementoSistemaFicheros e in Archivos)
             {
                 tamanyo += e.calcularTamanyo();
             }
@@ -50,7 +48,7 @@ namespace CompositeSparrowEnlaces
         /// <param name="elemento"> elemento a anyadir </param>
         public virtual void anadeElemento(ElementoSistemaFicheros elemento)
         {
-            coleccionElementos.Add(elemento);
+            Archivos.Add(elemento);
         }
 
         /// <summary>
@@ -59,7 +57,7 @@ namespace CompositeSparrowEnlaces
         /// <param name="elemento"> elemento a eliminar </param>
         public virtual void eliminaElemento(ElementoSistemaFicheros e)
         {
-            coleccionElementos.Remove(e);
+            Archivos.Remove(e);
         }
 
         /// <summary>

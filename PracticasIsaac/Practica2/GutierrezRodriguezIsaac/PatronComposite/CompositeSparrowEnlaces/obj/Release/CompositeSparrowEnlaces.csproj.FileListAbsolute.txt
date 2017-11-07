@@ -1,0 +1,7 @@
+C:\Users\ssm87\Documents\DisenoSoftware\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\CompositeSparrowEnlaces\bin\Release\CompositeSparrowEnlaces.exe.config
+C:\Users\ssm87\Documents\DisenoSoftware\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\CompositeSparrowEnlaces\bin\Release\CompositeSparrowEnlaces.exe
+C:\Users\ssm87\Documents\DisenoSoftware\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\CompositeSparrowEnlaces\bin\Release\CompositeSparrowEnlaces.pdb
+C:\Users\ssm87\Documents\DisenoSoftware\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\CompositeSparrowEnlaces\obj\Release\CompositeSparrowEnlaces.csprojResolveAssemblyReference.cache
+C:\Users\ssm87\Documents\DisenoSoftware\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\CompositeSparrowEnlaces\obj\Release\CompositeSparrowEnlaces.csproj.CoreCompileInputs.cache
+C:\Users\ssm87\Documents\DisenoSoftware\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\CompositeSparrowEnlaces\obj\Release\CompositeSparrowEnlaces.exe
+C:\Users\ssm87\Documents\DisenoSoftware\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\CompositeSparrowEnlaces\obj\Release\CompositeSparrowEnlaces.pdb

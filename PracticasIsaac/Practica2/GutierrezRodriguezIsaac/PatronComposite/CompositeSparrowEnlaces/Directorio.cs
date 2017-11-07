@@ -21,8 +21,7 @@ namespace CompositeSparrowEnlaces
         /// <param name="nombre"> nombre del directorio </param>
         public Directorio(String nombre) : base(nombre) { }
 
-        //conjunto de elementos contenidos en el directorio
-        private ISet<ElementoSistemaFicheros> coleccionElementos = new HashSet<ElementoSistemaFicheros>();
+        
 
         /// <summary>
         /// Metodo que calcula el tamanyo del directorio
@@ -33,7 +32,7 @@ namespace CompositeSparrowEnlaces
             double tamanyo = tamanyoDefinicion;
 
             //se anyade el tamanyo de los elementos contenidos
-            foreach (ElementoSistemaFicheros e in coleccionElementos)
+            foreach (ElementoSistemaFicheros e in Archivos)
             {
                 tamanyo += e.calcularTamanyo();
             }
@@ -47,7 +46,7 @@ namespace CompositeSparrowEnlaces
         /// <param name="elemento"> elemento a anyadir </param>
         public virtual void anadeElemento(ElementoSistemaFicheros elemento)
         {
-            coleccionElementos.Add(elemento);
+            Archivos.Add(elemento);
         }
 
         /// <summary>
@@ -56,7 +55,7 @@ namespace CompositeSparrowEnlaces
         /// <param name="elemento"> elemento a eliminar </param>
         public virtual void eliminaElemento(ElementoSistemaFicheros e)
         {
-            coleccionElementos.Remove(e);
+            Archivos.Remove(e);
         }
 
         /// <summary>
@@ -67,7 +66,7 @@ namespace CompositeSparrowEnlaces
         {
             int numArchivos = 0;
 
-            foreach (ElementoSistemaFicheros e in coleccionElementos)
+            foreach (ElementoSistemaFicheros e in Archivos)
             {
                 numArchivos += e.numArchivos();
             }

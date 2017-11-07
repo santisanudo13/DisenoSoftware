@@ -1,0 +1,15 @@
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\obj\Release\Pr-06-Observer.csprojResolveAssemblyReference.cache
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\obj\Release\Pr_06_Observer.FileExplorerView.resources
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\obj\Release\Pr_06_Observer.FileNameEditor.resources
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\obj\Release\Pr_06_Observer.Properties.Resources.resources
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\obj\Release\Pr_06_Observer.SparrowElementViewerCtrl.resources
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\obj\Release\Pr-06-Observer.csproj.GenerateResource.Cache
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\obj\Release\Pr-06-Observer.csproj.CoreCompileInputs.cache
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\bin\Release\Pr-06-Observer.exe.config
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\bin\Release\Pr-06-Observer.exe
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\bin\Release\Pr-06-Observer.pdb
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\bin\Release\CompositeSparrowEnlaces.exe
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\bin\Release\CompositeSparrowEnlaces.pdb
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\bin\Release\CompositeSparrowEnlaces.exe.config
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\obj\Release\Pr-06-Observer.exe
+C:\Users\ssm87\Documents\DisenoSoftware\Practica6\Pr-06-Observer\obj\Release\Pr-06-Observer.pdb

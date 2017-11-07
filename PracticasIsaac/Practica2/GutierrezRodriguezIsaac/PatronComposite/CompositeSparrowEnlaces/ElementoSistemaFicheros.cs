@@ -13,6 +13,7 @@ namespace CompositeSparrowEnlaces
     public abstract class ElementoSistemaFicheros
     {
         private String nombre;
+        private ISet<ElementoSistemaFicheros> archivos = new HashSet<ElementoSistemaFicheros>();
 
         /// <summary>
         /// Propiedad nombre
@@ -22,6 +23,13 @@ namespace CompositeSparrowEnlaces
             get { return this.nombre; }
             set { this.nombre = value; }
         }
+
+        public ISet<ElementoSistemaFicheros> Archivos
+        {
+            get { return this.archivos; }
+            set { this.archivos = value; }
+        }
+
 
         /// <summary>
         /// Constructor de la clase ElementoSistemaFicheros
