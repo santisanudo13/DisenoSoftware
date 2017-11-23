@@ -15,6 +15,7 @@ namespace CompositeSparrowEnlaces
         private String nombre;
         private ISet<ElementoSistemaFicheros> archivos = new HashSet<ElementoSistemaFicheros>();
 
+        private IList<IObserver> observers = new List<IObserver>();
         /// <summary>
         /// Propiedad nombre
         /// </summary>

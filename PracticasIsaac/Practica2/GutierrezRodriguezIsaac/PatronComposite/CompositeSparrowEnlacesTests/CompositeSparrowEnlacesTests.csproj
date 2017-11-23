@@ -57,12 +57,6 @@
     <Compile Include="EnlaceDirectoTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CompositeSparrowEnlaces\CompositeSparrowEnlaces.csproj">
-      <Project>{FB4C5AE9-4E86-4F6D-A759-9E69514E1C72}</Project>
-      <Name>CompositeSparrowEnlaces</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

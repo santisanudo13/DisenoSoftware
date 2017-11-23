@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Archivo.cs" />
+    <Compile Include="ArchivoComprimido.cs" />
+    <Compile Include="Directorio.cs" />
+    <Compile Include="ElementoSistemaFicheros.cs" />
+    <Compile Include="EnlaceDirecto.cs" />
     <Compile Include="FileExplorerView.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +63,11 @@
     <Compile Include="FileNameEditor.Designer.cs">
       <DependentUpon>FileNameEditor.cs</DependentUpon>
     </Compile>
+    <Compile Include="IContenedor.cs" />
+    <Compile Include="IEnlazable.cs" />
+    <Compile Include="ObserverNode.cs" />
+    <Compile Include="ObserverEnlaceDirecto.cs" />
+    <Compile Include="IObserver.cs" />
     <Compile Include="MultiWindowRunner.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -98,12 +108,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\CompositeSparrowEnlaces\CompositeSparrowEnlaces.csproj">
-      <Project>{FB4C5AE9-4E86-4F6D-A759-9E69514E1C72}</Project>
-      <Name>CompositeSparrowEnlaces</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

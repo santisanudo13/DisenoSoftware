@@ -48,6 +48,7 @@ namespace Pr_06_Observer
         /// <pre>(sa != null)</pre>
         public SparrowNode(ElementoSistemaFicheros sa) : base(sa.Nombre)
         {
+            sa.RegistrarObserver(new ObserverNode(this));
             this.referencedElement = sa;
             this.Text = referencedElement.Nombre;
         } // SparrowNode
