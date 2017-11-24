@@ -77,7 +77,7 @@ namespace CompositeSparrowEnlaces
         public void NotificarObservers()
         {
             // Creamos un array con el estado del Subject
-            String name = Nombre;
+            
 
             // Recorremos todos los objetos suscritos (observers)
             IObserver observer;
@@ -87,7 +87,7 @@ namespace CompositeSparrowEnlaces
                 // del subject como parametro.
                 // Cada observer ya hara lo que estime necesario con esa informacion.
                 observer = (IObserver)o;
-                observer.update(name);
+                observer.update(this);
             }
         }
     }

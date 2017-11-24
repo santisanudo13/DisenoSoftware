@@ -16,7 +16,9 @@ namespace Pr_06_Observer
         }
         public void update(Object o)
         {
-            String name = (String)o;
+            ElementoSistemaFicheros fichero = (ElementoSistemaFicheros)o;
+            String name = fichero.Nombre;
+
             sparrowNode.Text = name;
         }
     }

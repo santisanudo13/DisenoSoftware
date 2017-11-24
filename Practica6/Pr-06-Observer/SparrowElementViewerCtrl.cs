@@ -22,7 +22,7 @@ namespace Pr_06_Observer
     ///     nombres de los campos a los que corresponden los valores 
     ///     mostrados por las etiquetas de la derecha.
     /// </summary>
-    public partial class SparrowElementViewerCtrl: UserControl
+    public partial class SparrowElementViewerCtrl: UserControl, IObserver
     {
         #region Attributes and Properties
 
@@ -44,8 +44,13 @@ namespace Pr_06_Observer
             } // get
             set
             {
+                
+                
                 this.sparrowElement = value;
+               
+
                 displayElement();
+               
             } // set
         } // ElementoSistemaFicheros
 
@@ -59,6 +64,7 @@ namespace Pr_06_Observer
         public SparrowElementViewerCtrl()
         {
             InitializeComponent();
+            // SparrowElement.RegistrarObserver(new ObserverSparrowElementViewerCtrl(this));
         } // SparrowElementViewerCtrl
 
         #endregion
@@ -73,6 +79,9 @@ namespace Pr_06_Observer
         ///       (this.lb_SizeText != null)</pre>
         protected void displayElement()
         {
+            if (sparrowElement != null)
+                this.sparrowElement.RegistrarObserver(this);
+
             if (this.sparrowElement != null) {
                this.lb_NameText.Text = this.sparrowElement.Nombre;
                this.lb_SizeText.Text = this.sparrowElement.calcularTamanyo().ToString();
@@ -111,6 +120,12 @@ namespace Pr_06_Observer
             this.tbl_Layout.Height = this.Height;
             this.tbl_Layout.Width = this.Width;
         } // SparrowElementViewer_Resize
+
+        public void update(object o)
+        {
+
+            displayElement();
+        }
 
         #endregion
     } // class
