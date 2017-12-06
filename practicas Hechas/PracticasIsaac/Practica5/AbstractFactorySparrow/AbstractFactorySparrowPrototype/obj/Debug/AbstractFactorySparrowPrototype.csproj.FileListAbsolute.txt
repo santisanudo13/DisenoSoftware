@@ -1,0 +1,12 @@
+C:\Users\vm\documents\visual studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\bin\Debug\AbstractFactorySparrowPrototype.exe.config
+C:\Users\vm\documents\visual studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\obj\Debug\AbstractFactorySparrowPrototype.csprojResolveAssemblyReference.cache
+C:\Users\vm\documents\visual studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\bin\Debug\AbstractFactorySparrowPrototype.exe
+C:\Users\vm\documents\visual studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\bin\Debug\AbstractFactorySparrowPrototype.pdb
+C:\Users\vm\documents\visual studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\obj\Debug\AbstractFactorySparrowPrototype.exe
+C:\Users\vm\documents\visual studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\obj\Debug\AbstractFactorySparrowPrototype.pdb
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\bin\Debug\AbstractFactorySparrowPrototype.exe.config
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\obj\Debug\AbstractFactorySparrowPrototype.exe
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\obj\Debug\AbstractFactorySparrowPrototype.pdb
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\bin\Debug\AbstractFactorySparrowPrototype.exe
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\bin\Debug\AbstractFactorySparrowPrototype.pdb
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\AbstractFactorySparrow\AbstractFactorySparrowPrototype\obj\Debug\AbstractFactorySparrowPrototype.csprojResolveAssemblyReference.cache

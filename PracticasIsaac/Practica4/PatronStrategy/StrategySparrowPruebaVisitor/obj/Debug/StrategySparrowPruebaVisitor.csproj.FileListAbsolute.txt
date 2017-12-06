@@ -1,8 +1,0 @@
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowPruebaVisitor\bin\Debug\StrategySparrowPruebaVisitor.exe.config
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowPruebaVisitor\bin\Debug\StrategySparrowPruebaVisitor.exe
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowPruebaVisitor\bin\Debug\StrategySparrowPruebaVisitor.pdb
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowPruebaVisitor\bin\Debug\StrategySparrow.exe
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowPruebaVisitor\bin\Debug\StrategySparrow.pdb
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowPruebaVisitor\obj\Debug\StrategySparrowPruebaVisitor.csprojResolveAssemblyReference.cache
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowPruebaVisitor\obj\Debug\StrategySparrowPruebaVisitor.exe
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowPruebaVisitor\obj\Debug\StrategySparrowPruebaVisitor.pdb

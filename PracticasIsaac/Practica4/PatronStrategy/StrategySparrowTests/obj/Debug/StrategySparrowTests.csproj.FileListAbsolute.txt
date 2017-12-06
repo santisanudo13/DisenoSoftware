@@ -1,9 +1,0 @@
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowTests\obj\Debug\StrategySparrowTests.csprojResolveAssemblyReference.cache
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowTests\bin\Debug\StrategySparrowTests.dll
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowTests\bin\Debug\StrategySparrowTests.pdb
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowTests\bin\Debug\StrategySparrow.exe
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowTests\bin\Debug\StrategySparrow.pdb
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowTests\obj\Debug\StrategySparrowTests.dll
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowTests\obj\Debug\StrategySparrowTests.pdb

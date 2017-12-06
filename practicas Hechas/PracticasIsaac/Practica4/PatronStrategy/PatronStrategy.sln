@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategySparrow", "StrategySparrow\StrategySparrow.csproj", "{74378BCD-8ADE-4FA0-B0C9-250D1C2085BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategySparrowTests", "StrategySparrowTests\StrategySparrowTests.csproj", "{B3A23FCE-EC77-458D-A552-6F5C3E2305A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategySparrowLambda", "StrategySparrowLambda\StrategySparrowLambda.csproj", "{6A0E4A2F-A673-4715-83D7-6E0CB6C401B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategySparrowLambdaTests", "StrategySparrowLambdaTests\StrategySparrowLambdaTests.csproj", "{56BD68E3-9BDA-4207-8B36-910F9568BA11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategySparrowPruebaVisitor", "StrategySparrowPruebaVisitor\StrategySparrowPruebaVisitor.csproj", "{E9A62455-B02C-42E1-9206-698C021B07F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74378BCD-8ADE-4FA0-B0C9-250D1C2085BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74378BCD-8ADE-4FA0-B0C9-250D1C2085BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74378BCD-8ADE-4FA0-B0C9-250D1C2085BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74378BCD-8ADE-4FA0-B0C9-250D1C2085BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A23FCE-EC77-458D-A552-6F5C3E2305A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A23FCE-EC77-458D-A552-6F5C3E2305A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A23FCE-EC77-458D-A552-6F5C3E2305A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A23FCE-EC77-458D-A552-6F5C3E2305A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0E4A2F-A673-4715-83D7-6E0CB6C401B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0E4A2F-A673-4715-83D7-6E0CB6C401B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0E4A2F-A673-4715-83D7-6E0CB6C401B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0E4A2F-A673-4715-83D7-6E0CB6C401B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BD68E3-9BDA-4207-8B36-910F9568BA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BD68E3-9BDA-4207-8B36-910F9568BA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BD68E3-9BDA-4207-8B36-910F9568BA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BD68E3-9BDA-4207-8B36-910F9568BA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A62455-B02C-42E1-9206-698C021B07F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A62455-B02C-42E1-9206-698C021B07F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A62455-B02C-42E1-9206-698C021B07F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A62455-B02C-42E1-9206-698C021B07F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

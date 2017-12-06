@@ -1,0 +1,6 @@
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambda\bin\Debug\StrategySparrowLambda.exe.config
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambda\bin\Debug\StrategySparrowLambda.exe
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambda\bin\Debug\StrategySparrowLambda.pdb
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambda\obj\Debug\StrategySparrowLambda.csprojResolveAssemblyReference.cache
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambda\obj\Debug\StrategySparrowLambda.exe
+D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambda\obj\Debug\StrategySparrowLambda.pdb

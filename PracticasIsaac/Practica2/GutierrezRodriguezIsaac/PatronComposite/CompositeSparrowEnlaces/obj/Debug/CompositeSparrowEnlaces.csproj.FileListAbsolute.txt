@@ -1,9 +1,0 @@
-C:\Users\vm\Documents\Visual Studio 2015\Projects\PatronComposite old\CompositeSparrowEnlaces\bin\Debug\CompositeSparrowEnlaces.exe.config
-C:\Users\vm\Documents\Visual Studio 2015\Projects\PatronComposite old\CompositeSparrowEnlaces\bin\Debug\CompositeSparrowEnlaces.exe
-C:\Users\vm\Documents\Visual Studio 2015\Projects\PatronComposite old\CompositeSparrowEnlaces\bin\Debug\CompositeSparrowEnlaces.pdb
-C:\Users\vm\Documents\Visual Studio 2015\Projects\PatronComposite old\CompositeSparrowEnlaces\obj\Debug\CompositeSparrowEnlaces.exe
-C:\Users\vm\Documents\Visual Studio 2015\Projects\PatronComposite old\CompositeSparrowEnlaces\obj\Debug\CompositeSparrowEnlaces.pdb
-C:\Users\vm\Documents\Visual Studio 2015\Projects\PatronComposite old\CompositeSparrowEnlaces\obj\Debug\CompositeSparrowEnlaces.csprojResolveAssemblyReference.cache
-C:\Users\vm\Documents\Visual Studio 2015\Projects\PatronComposite\CompositeSparrowEnlaces\bin\Debug\CompositeSparrowEnlaces.exe.config
-C:\Users\vm\Documents\Visual Studio 2015\Projects\PatronComposite\CompositeSparrowEnlaces\obj\Debug\CompositeSparrowEnlaces.exe
-C:\Users\vm\Documents\Visual Studio 2015\Projects\PatronComposite\CompositeSparrowEnlaces\obj\Debug\CompositeSparrowEnlaces.pdb

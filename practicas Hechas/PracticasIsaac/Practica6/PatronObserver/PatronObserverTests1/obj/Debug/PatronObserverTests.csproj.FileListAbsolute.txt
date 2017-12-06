@@ -1,0 +1,9 @@
+C:\Users\i95_win_lap\Documents\Visual Studio 2015\Projects\PatronObserver\PatronObserverTests1\bin\Debug\PatronObserverTests1.dll
+C:\Users\i95_win_lap\Documents\Visual Studio 2015\Projects\PatronObserver\PatronObserverTests1\bin\Debug\PatronObserverTests1.pdb
+C:\Users\i95_win_lap\Documents\Visual Studio 2015\Projects\PatronObserver\PatronObserverTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\i95_win_lap\Documents\Visual Studio 2015\Projects\PatronObserver\PatronObserverTests1\bin\Debug\PatronObserver.exe
+C:\Users\i95_win_lap\Documents\Visual Studio 2015\Projects\PatronObserver\PatronObserverTests1\bin\Debug\PatronObserver.pdb
+C:\Users\i95_win_lap\Documents\Visual Studio 2015\Projects\PatronObserver\PatronObserverTests1\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\i95_win_lap\Documents\Visual Studio 2015\Projects\PatronObserver\PatronObserverTests1\obj\Debug\PatronObserverTests.csprojResolveAssemblyReference.cache
+C:\Users\i95_win_lap\Documents\Visual Studio 2015\Projects\PatronObserver\PatronObserverTests1\obj\Debug\PatronObserverTests1.dll
+C:\Users\i95_win_lap\Documents\Visual Studio 2015\Projects\PatronObserver\PatronObserverTests1\obj\Debug\PatronObserverTests1.pdb

@@ -1,9 +1,0 @@
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambdaTests\obj\Debug\StrategySparrowLambdaTests.csprojResolveAssemblyReference.cache
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambdaTests\bin\Debug\StrategySparrowLambdaTests.dll
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambdaTests\bin\Debug\StrategySparrowLambdaTests.pdb
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambdaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambdaTests\bin\Debug\StrategySparrowLambda.exe
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambdaTests\bin\Debug\StrategySparrowLambda.pdb
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambdaTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambdaTests\obj\Debug\StrategySparrowLambdaTests.dll
-D:\Users\IGR95\Documents\Visual Studio 2015\Projects\PatronStrategy\StrategySparrowLambdaTests\obj\Debug\StrategySparrowLambdaTests.pdb
