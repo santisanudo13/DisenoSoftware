@@ -1,0 +1,6 @@
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\b\CompositeSparrowTests\bin\Debug\CompositeSparrowTests.dll
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\b\CompositeSparrowTests\bin\Debug\CompositeSparrowTests.pdb
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\i\CompositeSparrowTests\Debug\CompositeSparrowTests.csprojResolveAssemblyReference.cache
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\i\CompositeSparrowTests\Debug\CompositeSparrowTests.csproj.CoreCompileInputs.cache
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\i\CompositeSparrowTests\Debug\CompositeSparrowTests.dll
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\i\CompositeSparrowTests\Debug\CompositeSparrowTests.pdb

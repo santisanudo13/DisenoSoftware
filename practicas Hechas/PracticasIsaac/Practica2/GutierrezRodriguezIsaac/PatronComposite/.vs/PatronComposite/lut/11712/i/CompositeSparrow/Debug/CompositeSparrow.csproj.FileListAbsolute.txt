@@ -1,0 +1,7 @@
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\b\CompositeSparrow\bin\Debug\CompositeSparrow.exe.config
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\b\CompositeSparrow\bin\Debug\CompositeSparrow.exe
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\b\CompositeSparrow\bin\Debug\CompositeSparrow.pdb
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\i\CompositeSparrow\Debug\CompositeSparrow.csprojResolveAssemblyReference.cache
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\i\CompositeSparrow\Debug\CompositeSparrow.csproj.CoreCompileInputs.cache
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\i\CompositeSparrow\Debug\CompositeSparrow.exe
+F:\Diseño Software\practicas Hechas\PracticasIsaac\Practica2\GutierrezRodriguezIsaac\PatronComposite\.vs\PatronComposite\lut\0\i\CompositeSparrow\Debug\CompositeSparrow.pdb
