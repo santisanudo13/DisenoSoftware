@@ -1,0 +1,11 @@
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\bin\Debug\netcoreapp2.0\Practica5.deps.json
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\bin\Debug\netcoreapp2.0\Practica5.runtimeconfig.json
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\bin\Debug\netcoreapp2.0\Practica5.runtimeconfig.dev.json
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\bin\Debug\netcoreapp2.0\Practica5.dll
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\bin\Debug\netcoreapp2.0\Practica5.pdb
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\obj\Debug\netcoreapp2.0\Practica5.csprojResolveAssemblyReference.cache
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\obj\Debug\netcoreapp2.0\Practica5.csproj.CoreCompileInputs.cache
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\obj\Debug\netcoreapp2.0\Practica5.AssemblyInfoInputs.cache
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\obj\Debug\netcoreapp2.0\Practica5.AssemblyInfo.cs
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\obj\Debug\netcoreapp2.0\Practica5.dll
+F:\Diseño Software\practicasExamen\Practica5\Practica5\Practica5\obj\Debug\netcoreapp2.0\Practica5.pdb
