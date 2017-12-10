@@ -1,0 +1,14 @@
+C:\Users\Luis Martin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Luis Martin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Luis Martin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Luis Martin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\Luis Martin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Luis Martin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Luis Martin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+F:\Diseño Software\practicasExamen\Practica7\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+F:\Diseño Software\practicasExamen\Practica7\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+F:\Diseño Software\practicasExamen\Practica7\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+F:\Diseño Software\practicasExamen\Practica7\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+F:\Diseño Software\practicasExamen\Practica7\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+F:\Diseño Software\practicasExamen\Practica7\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+F:\Diseño Software\practicasExamen\Practica7\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
