@@ -5,7 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/// Isaac Gutierrez Rodriguez
 namespace CompositeSparrowEnlaces
 {
     /// <summary>

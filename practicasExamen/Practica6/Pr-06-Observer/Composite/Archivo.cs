@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/// Isaac Gutierrez Rodriguez
 namespace CompositeSparrowEnlaces
 {
     /// <summary>
@@ -20,14 +19,14 @@ namespace CompositeSparrowEnlaces
         /// Constructor de la clase Archivo
         /// </summary>
         /// <param name="nombre"> nombre del archivo </param>
-        /// <param name="tamanyo"> tamanyo del archivo (en KB) </param>
+        /// <param name="tamanyo"> tamanyo del archivo en KB </param>
         public Archivo(String nombre, double tamanyo) : base(nombre)
         {
             this.tamanyo = tamanyo;
         }
 
         /// <summary>
-        /// Metodo que retorna el tamanyo del archivo
+        /// Muestra el calculo resultante para obtener el tamanyo
         /// </summary>
         /// <returns> tamanyo del archivo </returns>
         public override double calcularTamanyo()
@@ -36,8 +35,8 @@ namespace CompositeSparrowEnlaces
         }
 
         /// <summary>
-        /// Metodo que retorna el numero de archivos. En este caso al ser un archivo no puede
-        /// contener otros elementos, por lo que siempre retorna 1.
+        /// Muestra el numero de archivos que contiene, en caso
+        /// de no contener, retorna 1.
         /// </summary>
         /// <returns> numero de archivos, esto es, 1 </returns>
         public override int numArchivos()

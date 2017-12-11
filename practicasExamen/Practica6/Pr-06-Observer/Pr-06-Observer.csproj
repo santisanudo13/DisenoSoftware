@@ -46,42 +46,42 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Archivo.cs" />
-    <Compile Include="ArchivoComprimido.cs" />
-    <Compile Include="Directorio.cs" />
-    <Compile Include="ElementoSistemaFicheros.cs" />
-    <Compile Include="EnlaceDirecto.cs" />
-    <Compile Include="FileExplorerView.cs">
+    <Compile Include="Composite\Archivo.cs" />
+    <Compile Include="Composite\ArchivoComprimido.cs" />
+    <Compile Include="Composite\Directorio.cs" />
+    <Compile Include="Composite\ElementoSistemaFicheros.cs" />
+    <Compile Include="Composite\EnlaceDirecto.cs" />
+    <Compile Include="UserInterface\FileExplorerView.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FileExplorerView.Designer.cs">
+    <Compile Include="UserInterface\FileExplorerView.Designer.cs">
       <DependentUpon>FileExplorerView.cs</DependentUpon>
     </Compile>
-    <Compile Include="FileNameEditor.cs">
+    <Compile Include="UserInterface\FileNameEditor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FileNameEditor.Designer.cs">
+    <Compile Include="UserInterface\FileNameEditor.Designer.cs">
       <DependentUpon>FileNameEditor.cs</DependentUpon>
     </Compile>
-    <Compile Include="IContenedor.cs" />
-    <Compile Include="IEnlazable.cs" />
-    <Compile Include="ObserverNode.cs" />
-    <Compile Include="ObserverEnlaceDirecto.cs" />
-    <Compile Include="IObserver.cs" />
-    <Compile Include="MultiWindowRunner.cs" />
+    <Compile Include="Composite\IContenedor.cs" />
+    <Compile Include="Composite\IEnlazable.cs" />
+    <Compile Include="Observer\ObserverNode.cs" />
+    <Compile Include="Observer\ObserverEnlaceDirecto.cs" />
+    <Compile Include="Observer\IObserver.cs" />
+    <Compile Include="UserInterface\MultiWindowRunner.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SparrowElementViewerCtrl.cs">
+    <Compile Include="UserInterface\SparrowElementViewerCtrl.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="SparrowElementViewerCtrl.Designer.cs">
+    <Compile Include="UserInterface\SparrowElementViewerCtrl.Designer.cs">
       <DependentUpon>SparrowElementViewerCtrl.cs</DependentUpon>
     </Compile>
-    <Compile Include="SparrowNode.cs" />
-    <EmbeddedResource Include="FileExplorerView.resx">
+    <Compile Include="UserInterface\SparrowNode.cs" />
+    <EmbeddedResource Include="UserInterface\FileExplorerView.resx">
       <DependentUpon>FileExplorerView.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FileNameEditor.resx">
+    <EmbeddedResource Include="UserInterface\FileNameEditor.resx">
       <DependentUpon>FileNameEditor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -93,7 +93,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="SparrowElementViewerCtrl.resx">
+    <EmbeddedResource Include="UserInterface\SparrowElementViewerCtrl.resx">
       <DependentUpon>SparrowElementViewerCtrl.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
