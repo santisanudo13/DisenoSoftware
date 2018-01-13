@@ -15,8 +15,8 @@ import practica8Disenho.excepciones.NoSeHaPodidoConectarABBDD;
  */
 public abstract class Estrategia {
 
-	private static final String USERNAME = "p07diseno";
-	private static final String PASSWORD = "p07diseno";
+	private static final String USERNAME = "root";
+	private static final String PASSWORD = "root";
 
 	private static final String SERVERNAME = "localhost";
 	private static final String PORTNUMBER = "3306";
