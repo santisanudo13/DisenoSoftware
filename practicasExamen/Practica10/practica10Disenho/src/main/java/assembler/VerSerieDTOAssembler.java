@@ -44,7 +44,7 @@ public class VerSerieDTOAssembler {
 			tipoSerie = "Estandar";		
 		}else if(s instanceof SerieGoldProxy){
 			tipoSerie= "Gold";
-		}else{ //if(s instanceof SerieSilverProxy || s instanceof SerieSilverReal)
+		}else{ //if(s instanceof SerieSilverProxy )
 			tipoSerie = "Silver";
 		}
 
